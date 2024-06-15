@@ -122,3 +122,4 @@ class RegisterForm(forms.ModelForm):
                     password_confirmation_error,
                 ],
             })
+            
